@@ -1,7 +1,7 @@
 # 💳 Finance Dashboard UI – Figma Design
 Welcome to the **Finance Dashboard UI**, a clean, modern interface for managing personal finances. Designed in **Figma**, this dashboard provides a user-friendly view of financial earnings, spending, goals, and cryptocurrency portfolio.
 
-Dashboard Preview: 
+Dashboard Preview: Finance Dashboard.png
 
 ## 📌 Features
 - 🔐 User greeting and profile section
